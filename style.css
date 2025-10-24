@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  padding: 0px 925px 0px 925px;
+  background-color: rgba(0, 0, 0, 0.954);
+  font-family: "roboto";
+}
+
+.content {
+    background-color: #1F2937;
+        color: white;
+
+
+}
+
+.one {
+    display: flex;
+
+}
+
+.header {
+  padding-left: 145px;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  color: #F9FAF8;
+  font-weight: 900;
+}
+
+.hlinks {
+  gap: 20px;
+  display: flex;
+  list-style-type: none;
+  font-size: 12px;
+  font-weight: 350;
+  justify-content: flex-end;
+  flex-grow: 1;
+  padding-right: 150px;
+  padding-top: 6px;
+  color: #E5E7EB;
+}
+
+.welcome {
+  padding-left: 145px;
+  font-weight: 900;
+  font-size: 34px;
+  color:#F9FAF8;
+  padding-top: 75px;
+  width: 250px;
+}
+
+.welcometwo {
+  padding-left: 145px;
+  font-size: 13px;
+  color: #E5E7EB;
+  width: 330px;
+}
+
+.column {
+  display: flex; 
+  flex-direction: column;
+  width: 508px;
+}
+
+.Sign-up {
+  margin-left: 145px;
+  color: #F9FAF8;
+  background-color: #3882F6;
+  font-weight: 900;
+  padding: 5px 20px;
+  margin-bottom: 105px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border: none;
+  width: 95px;
+}
+
+.placeholder {
+font-size: 12px;
+width: 370px;
+height: 171px;
+background-color: rgb(118, 128, 141);
+color:#F9FAF8;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+margin-top: 70px;
+
+}
+
+.flex {
+  display: flex;
+}
+
+.middle {
+  background-color: white;
+  padding: 0px 200px;
+  min-height: 26vh;
+
+}
+
+.info-m {
+  color: #1F2937;
+  text-align: center;
+  font-size: 26px;
+  font-weight: 900;
+  padding: 34px 0px;
+}
+
+.mid {
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+
+  flex-grow: 1;
+}
+
+.cube {
+  border: solid;
+  border-color: #3882F6;
+  width: 110px;
+  height: 110px;
+  border-radius: 10px;
+}
+
+.ase {
+  width: 160px;
+  font-size: 14px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.704);
+  margin-top: 7px;
+}
+
+.quote {
+  background-color: #E5E7EB;
+  min-height: 22vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text {
+  font-size: 26px;
+  font-style: italic;
+  color: #1F2937;
+  font-weight: 300;
+  margin: 0px 230px;
+}
+
+.source {
+  margin-left: 350px;
+  font-weight: 900;
+  font-size: 17px;
+  color: #1f2937e1;
+}
+
+.bottom {
+  min-height: 18vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.achsoistdas {
+  background-color: #3882F6;
+  border-radius: 6px;
+  border: none;
+  width: 725px;
+  height: 110px;
+  color: white;
+  text-align: start;
+  display: flex;
+
+}
+
+.button-collumn {
+padding-left: 80px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+  
+}
+
+.button-head {
+  font-weight: 800;
+  font-size: 17px;
+}
+
+.button-text {
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.bottom-two {
+  display: flex;
+padding-left: 160px;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.little-button {
+  background-color: #3882F6;
+  border: solid 2px #F9FAF8;
+  color: #F9FAF8;
+  border-radius: 6px;
+  padding: 5px 20px;
+  font-weight: 900;
+}
+
+.foot {
+  background-color: #1F2937;
+  min-height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.copyright {
+  font-weight: 400;
+  font-size: 13px;
+  color: white;
+}
